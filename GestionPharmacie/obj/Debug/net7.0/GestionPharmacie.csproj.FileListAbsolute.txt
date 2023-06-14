@@ -1,0 +1,15 @@
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\bin\Debug\net7.0\GestionPharmacie.exe
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\bin\Debug\net7.0\GestionPharmacie.deps.json
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\bin\Debug\net7.0\GestionPharmacie.runtimeconfig.json
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\bin\Debug\net7.0\GestionPharmacie.dll
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\bin\Debug\net7.0\GestionPharmacie.pdb
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.csproj.AssemblyReference.cache
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.AssemblyInfoInputs.cache
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.AssemblyInfo.cs
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.csproj.CoreCompileInputs.cache
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.dll
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\refint\GestionPharmacie.dll
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.pdb
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\GestionPharmacie.genruntimeconfig.cache
+C:\Users\Kebe Sakhir\source\repos\GestionPharmacie\obj\Debug\net7.0\ref\GestionPharmacie.dll
